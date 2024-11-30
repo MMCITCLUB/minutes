@@ -22,4 +22,9 @@ Year
 # About the MMC IT CLUB
 If you're interested in getting involved with the MMC IT CLUB, you can:
 
-1. 
+1. Get Club membership 
+1. Contribute to our club projects and repositories 
+1. Host sessions related to tech 
+1. Reach out to us if you have any questions or suggestions 
+
+We welcome contributions and participation from anyone interested in building cool stuff and open-source software.
